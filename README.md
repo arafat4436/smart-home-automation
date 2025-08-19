@@ -22,9 +22,8 @@ It includes automatic **garage door + rain cover control** and a **smart door lo
 ## 📂 Repository Structure
 smart-home-automation/
 │
-├── README.md
 ├── Arduino_Uno_Sensors/
-│   └── garage_rain_servo.ino     # IR + Rain sensor with servos
+│ └── garage_rain_servo.ino
 │
 └── NodeMCU_Smart_Lock/
-    └── smart_door_lock.ino       # Keypad + Blynk + Relay lock
+└── smart_door_lock.ino
